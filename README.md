@@ -69,8 +69,8 @@ To get a copy of this project up and running on your local machine for developme
 
 The Keeper App is deployed on two popular free hosting platforms: Netlify and Vercel.
 
-
-
+Netlify Link - https://keeperappli.netlify.app/
+Vercel Link - https://keeper-app-one-inky.vercel.app/
 ## Challenges Faced and How I Resolved Them
 
 This section highlights some of the key technical challenges I encountered during the development of this project and the solutions I implemented. Reflecting on these helped solidify my understanding of React best practices.
