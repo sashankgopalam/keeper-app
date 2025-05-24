@@ -10,7 +10,6 @@ A modern, responsive note-taking application built with React.js, inspired by Go
 * [Deployment](#deployment)
 * [Challenges Faced and How I Resolved Them](#challenges-faced-and-how-i-resolved-them)
 * [Contributing](#contributing) (Optional)
-* [License](#license)
 
 ---
 
@@ -46,8 +45,6 @@ To get a copy of this project up and running on your local machine for developme
     Open your terminal or command prompt and run:
     ```bash
     git clone [https://github.com/YOUR_GITHUB_USERNAME/keeper-app.git](https://github.com/YOUR_GITHUB_USERNAME/keeper-app.git)
-    ```
-    *(**Replace `YOUR_GITHUB_USERNAME`** with your actual GitHub username and `keeper-app` with your repository name if it's different)*
 
 2.  **Navigate into the project directory:**
     ```bash
