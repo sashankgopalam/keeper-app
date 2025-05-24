@@ -112,7 +112,3 @@ If you have suggestions for improvements or find a bug, please feel free to:
 6.  Open a Pull Request.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
