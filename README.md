@@ -44,7 +44,7 @@ To get a copy of this project up and running on your local machine for developme
 1.  **Clone the repository:**
     Open your terminal or command prompt and run:
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/keeper-app.git](https://github.com/YOUR_GITHUB_USERNAME/keeper-app.git)
+    git clone https://github.com/sashankgopalam/keeper-app.git
 
 2.  **Navigate into the project directory:**
     ```bash
